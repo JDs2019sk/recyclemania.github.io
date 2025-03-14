@@ -1,6 +1,6 @@
 # RecycleMania
 
-## Android app about recycling, for kids.
+## Android app about recycling.
 
 ### TIIGR 22/25 School Project
 
